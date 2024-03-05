@@ -1,4 +1,6 @@
-# Jeon Seong Woo <img src="https://komarev.com/ghpvc/?username=jeon8719&label=Profile%20views&color=0e75b6&style=flat" alt="jeon8719" />
+<img src="https://komarev.com/ghpvc/?username=jeon8719&label=Profile%20views&color=0e75b6&style=flat" alt="jeon8719" />
+
+# Jeon Seong Woo 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjstjddn8719)](https://solved.ac/wjstjddn8719/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeon8719&show_icons=true&locale=en)
