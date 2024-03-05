@@ -1,7 +1,7 @@
 # Jeon Seong Woo <img src="https://komarev.com/ghpvc/?username=jeon8719&label=Profile%20views&color=0e75b6&style=flat" alt="jeon8719" />
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeon8719&show_icons=true&locale=en)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjstjddn8719)](https://solved.ac/wjstjddn8719/)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeon8719&show_icons=true&locale=en)
 # Skills
 ### Platforms & Languages
 ![steam](https://img.shields.io/badge/steam-000000.svg?&style=for-the-badge&logo=steam&logoColor=white)
@@ -24,7 +24,6 @@
 ![sap](https://img.shields.io/badge/sap-0FAAFF.svg?&style=for-the-badge&logo=sap&logoColor=white)
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeon9176@gmail.com)](mailto:jeon9176@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjstjddn8719@naver.com)](mailto:wjstjddn8719@naver.com)
 
