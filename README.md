@@ -1,6 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=jeon8719&label=Profile%20views&color=0e75b6&style=flat" alt="jeon8719" />
 
-# Jeon Seong Woo 
+<h1 align="center">Jeon Seong Woo</h1>
+<h3 align="center">PC/Mobile indie game developer from South Korea</h3>
+
+
+# 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjstjddn8719)](https://solved.ac/wjstjddn8719/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeon8719&show_icons=true&locale=en)
