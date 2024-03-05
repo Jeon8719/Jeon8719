@@ -1,10 +1,10 @@
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjstjddn8719)](https://solved.ac/wjstjddn8719/)
 <h1 align="center">Hi 👋, I'm Jeon Seong Woo</h1>
 <h3 align="center">PC/Mobile indie game developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeon8719&label=Profile%20views&color=0e75b6&style=flat" alt="jeon8719" /> </p>
-<p>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjstjddn8719)](https://solved.ac/wjstjddn8719/)
+
 - 🔭 I’m currently working on **LGS**
 
 - 🌱 I’m currently learning **C#, Unity**
