@@ -23,7 +23,7 @@
 ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![sap](https://img.shields.io/badge/sap-0FAAFF.svg?&style=for-the-badge&logo=sap&logoColor=white)
  
-# :mailbox_with_mail: Contacts
+# Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeon9176@gmail.com)](mailto:jeon9176@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wjstjddn8719@naver.com)](mailto:wjstjddn8719@naver.com)
 
