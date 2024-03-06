@@ -5,9 +5,10 @@
 
 
 # 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeon8719&show_icons=true&locale=en)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjstjddn8719)](https://solved.ac/wjstjddn8719/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeon8719&show_icons=true&locale=en)
+
 # Skills
 ### Platforms & Languages
 ![steam](https://img.shields.io/badge/steam-000000.svg?&style=for-the-badge&logo=steam&logoColor=white)
